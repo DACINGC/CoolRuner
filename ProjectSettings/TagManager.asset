@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus2
+  - UpCollider
+  - Bonus1
+  - Barrier
+  - Ground
+  - Thron
+  - Spring
+  - Spring_S
+  - EnemyBarrier
+  - Magnet
+  - Sprint
+  - EndCo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Play
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2678584613
+    locked: 0
+  - name: Ground
+    uniqueID: 1925661143
+    locked: 0
+  - name: Play
+    uniqueID: 89813667
+    locked: 0
